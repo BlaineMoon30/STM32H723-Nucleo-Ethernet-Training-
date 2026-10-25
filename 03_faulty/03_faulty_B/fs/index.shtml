@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta http-equiv="refresh" content="2">
+<title>NUCLEO-H723ZG</title>
+<style>body{font-family:sans-serif;margin:2em}td{padding:4px 12px}a{margin-right:1em}</style>
+</head><body>
+<h1>NUCLEO-H723ZG</h1>
+<table>
+<tr><td>IP</td><td><!--#ip--></td></tr>
+<tr><td>Link</td><td><!--#link--></td></tr>
+<tr><td>Temp</td><td><!--#temp--> C</td></tr>
+</table>
+<p><a href="/led.cgi?v=1">LED ON</a><a href="/led.cgi?v=0">LED OFF</a></p>
+<p><small>hands-on 3 &middot; lwIP httpd SSI/CGI &middot; refresh 2 s</small></p>
+</body></html>
